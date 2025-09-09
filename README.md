@@ -36,6 +36,6 @@
 5. Highlighted insights with bar charts, pie charts, and line graphs for easy understanding.  
 
 ## Dashboard Screenshot  
-<img width="1295" height="530" alt="Dashboard_photo" src="https://github.com/user-attachments/assets/994dfb11-66d9-4b69-81d0-b0ab339a5b83" />
+<img width="1295" height="530" alt="Dashboard_photo" src="https://github.com/Shivshankar223/Data-Analysis-Dashboard/blob/main/Dashboard_photo.png" />
 
 
