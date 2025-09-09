@@ -23,7 +23,10 @@
 - What is the trend of away-from-target % among sales executives?  
 - Which executives are consistently performing above 70%?  
 - What are the comparative performances across cities (Chennai, Delhi, Mumbai, etc.)?  
-- How balanced is the sales contribution among different employees?  
+- How balanced is the sales contribution among different employees?
+
+- Dashboard Interaction <a href="https://github.com/Shivshankar223/Data-Analysis-Dashboard/blob/main/Dashboard_photo.png"> View Dashboard</a>
+
 
 ## Process  
 1. Collected raw data of sales executives and targets.  
@@ -33,5 +36,6 @@
 5. Highlighted insights with bar charts, pie charts, and line graphs for easy understanding.  
 
 ## Dashboard Screenshot  
-![Dashboard Screenshot](Screenshot_2025-09-09_212158.png)  
+<img width="1295" height="530" alt="Dashboard_photo" src="https://github.com/user-attachments/assets/994dfb11-66d9-4b69-81d0-b0ab339a5b83" />
+
 
